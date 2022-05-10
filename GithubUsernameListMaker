@@ -1,0 +1,15 @@
+#!/bin/zsh
+
+for (( i=0; i<100; ++i )); do
+
+        NAME=$(python3 GithubAPIcheck.py) #| grep "does not" | sed 's/.*: //' | sed 's/\,.*//')
+
+        NAME=$(echo $NAME | grep "does not" | sed 's/.*://' | sed 's/\,.*//')
+
+        echo $NAME >> usernameSelection.txt
+
+        wait
+
+        sleep 1
+
+done
