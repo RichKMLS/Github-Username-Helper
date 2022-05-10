@@ -5,6 +5,8 @@ Quickly generate a list of available 1 word usernames for your github account.
 
 To use:
 
+0.) Save a list of words to 'wordlist'
+
 1.) Run GithubUsernameListMaker
 
 2.) Wait for 100 words to be added to usernameSelection
