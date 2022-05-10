@@ -1,7 +1,7 @@
 
 <h1 align="center">Github-Username-Helper :bust_in_silhouette:</h1>
 
-<p align="center">Quickly generate a list of available 1 word usernames for your github account.</p>
+<p align="center">Generate a list of available 1 word usernames for your github account!</p>
 
 
 #####  How to use:
