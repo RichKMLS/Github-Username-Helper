@@ -6,7 +6,7 @@ for (( i=0; i<100; ++i )); do
 
         NAME=$(echo $NAME | grep "does not" | sed 's/.*://' | sed 's/\,.*//')
 
-        echo $NAME >> usernameSelection.txt
+        echo $NAME >> usernameSelection
 
         wait
 
