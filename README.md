@@ -17,3 +17,5 @@ To use:
 
 
 Note: Not all names generated with this list will work. Github purposely doesn't allow certain words and there may be other reasons why the name won't work. This tool simply checks if the username is currently being used or not.
+
+This does not come with a prefilled list of words. Though many word lists can easily be located on Github.
